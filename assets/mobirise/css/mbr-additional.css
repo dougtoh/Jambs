@@ -1803,7 +1803,7 @@ body {
   color: #ffffff !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/essington-elite-kitchen-2-1400x932.jpg");
+  background-image: url("../../../assets/images/homes-pic1-1536x1024.jpg");
 }
 .cid-qTkA127IK8 H1 {
   color: #ffffff;
@@ -1830,18 +1830,11 @@ body {
   -webkit-flex-shrink: 0;
 }
 .cid-rrgfGtV4fr .img-text {
-  width: 58px;
-  height: 58px;
-  font-size: 29px;
+  width: 46px;
+  height: 46px;
+  font-size: 23px;
   border: 2px solid #efefef;
   border-radius: 50%;
-}
-@media (max-width: 991px) {
-  .cid-rrgfGtV4fr .img-text {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
 }
 @media (min-width: 992px) {
   .cid-rrgfGtV4fr .cards-block {
@@ -2343,14 +2336,6 @@ body {
     padding-bottom: 2rem;
   }
 }
-.cid-rrg1mo4lXq {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #efefef;
-}
-.cid-rrg1mo4lXq .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-rrg1oBezjF {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2372,65 +2357,7 @@ body {
   height: 100%;
 }
 .cid-rrg1oBezjF P {
-  color: #879a9f;
-}
-.cid-rrg1ZWfwpt {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rrg1ZWfwpt .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rrg1ZWfwpt .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-rrg1ZWfwpt .mbr-text {
-  color: #767676;
-}
-.cid-rrg1ZWfwpt .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-rrg1ZWfwpt .mbr-author-name {
-  color: #767676;
-}
-.cid-rrg1ZWfwpt .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-rrg1ZWfwpt .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-rrg1ZWfwpt .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rrg1ZWfwpt .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rrg1ZWfwpt .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-rrg1ZWfwpt .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
+  color: #232323;
 }
 .cid-rrgmlcdU2i {
   padding-top: 90px;
